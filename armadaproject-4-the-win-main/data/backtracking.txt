@@ -1,0 +1,15 @@
+What state will your configuration need to keep track of as it attempts to find a solution?
+current state and the next move
+
+How will you make successor configurations?
+By creating a copy of the game board, testing every possible new move and saving each valid board as a successor.
+
+How will you determine if a configuration is invalid?
+If it is impossible to find a solution from this point. Recieving error messages, invalid settings, or inconsistencies within data...
+
+How will you determine if the configuration is the goal?
+If it is the valid solution to the problem.
+
+
+Do you need to be concerned with cycles?  If so, how will you avoid them?
+I don't believe so since the board only has so many valid moves.

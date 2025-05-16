@@ -1,0 +1,16 @@
+Total Configs Generated = 428
+Solution:
+. . . . . . . S S S 3
+S S S . . S . . . . 4
+. . . . . . . . S . 1
+. . . . S S . . . . 2
+. . . . . . . . . . 0
+. . . . . . S S S S 4
+S S . . S . . . . . 3
+. . . . S . . S . S 3
+S . . . . . . S . S 3
+. . . . . S . . . S 2
+3 2 1 0 3 3 1 4 3 5 
+
+Move: [Move: R-0, C-7, Move: R-0, C-8, Move: R-0, C-9, Move: R-1, C-0, Move: R-1, C-1, Move: R-1, C-2, Move: R-1, C-5, Move: R-5, C-6, Move: R-5, C-7, Move: R-5, C-8, Move: R-5, C-9, Move: R-7, C-7, Move: R-7, C-9, Move: R-8, C-0, Move: R-8, C-7]
+Move Count: 15

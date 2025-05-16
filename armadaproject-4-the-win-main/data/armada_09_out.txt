@@ -1,0 +1,12 @@
+Total Configs Generated = 10
+Solution:
+. . . . S S 2
+S S . . . . 2
+. . . . . S 1
+. S S S . . 3
+. . . . . . 0
+. . S . . S 2
+1 2 2 1 1 3 
+
+Move: [Move: R-0, C-5, Move: R-1, C-0, Move: R-1, C-1, Move: R-2, C-5, Move: R-3, C-1, Move: R-3, C-3, Move: R-5, C-5]
+Move Count: 7
